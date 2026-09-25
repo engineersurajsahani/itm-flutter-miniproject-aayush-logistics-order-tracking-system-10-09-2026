@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+backend/uploads/payments/*
+backend/uploads/documents/*
+!backend/uploads/payments/.gitkeep
+!backend/uploads/documents/.gitkeep
+.DS_Store
